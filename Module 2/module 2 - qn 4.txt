@@ -1,0 +1,31 @@
+The list of operations present for a Queue datastructure is:
+1. enqueue()
+2. dequeue()
+3. peek()
+4. rear()
+5. isEmpty()
+6. isFull()
+
+1. enqueue():
+
+The enqueue operation is used to add elements to the rear side of the queue.
+
+2. dequeue():
+
+The dequeue operation is used to remove elements from the queue. Always the removal is done in the opposite end of enqueuing.
+
+3. peek():
+
+This function is used to get the data present at the front of the queue without removing it.
+
+4. rear():
+
+This function returns the element at the rear end of queue without removing it.
+
+5. isEmpty():
+
+This function checks if the queue is empty. If it is empty it sends a warning message.
+
+6. isFull():
+
+This function checks if the queue is full. If it is full, it sends a warning message.
